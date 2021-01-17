@@ -1,0 +1,3 @@
+﻿  ProiectOOP.cpp
+C:\Users\Bogdan\Desktop\POO\ProiectOOP\ProiectOOP\DELETE_FROM.h(77): warning C4715: 'DELETE_FROM::findParameter': not all control paths return a value
+  ProiectOOP.vcxproj -> C:\Users\Bogdan\Desktop\POO\ProiectOOP\Debug\ProiectOOP.exe
